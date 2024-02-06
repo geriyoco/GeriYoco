@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeri_yoco=self.webpackChunkgeri_yoco||[]).push([[9768],{2786:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/GeriYoco/blog/tags/docusaurus","allTagsPath":"/GeriYoco/blog/tags","count":4,"unlisted":false}')}}]);

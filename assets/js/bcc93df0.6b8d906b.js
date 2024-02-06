@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeri_yoco=self.webpackChunkgeri_yoco||[]).push([[1654],{9344:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/GeriYoco/blog/tags/hola","allTagsPath":"/GeriYoco/blog/tags","count":1,"unlisted":false}')}}]);

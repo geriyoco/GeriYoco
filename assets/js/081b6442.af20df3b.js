@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeri_yoco=self.webpackChunkgeri_yoco||[]).push([[5488],{7802:e=>{e.exports=JSON.parse('{"permalink":"/GeriYoco/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
