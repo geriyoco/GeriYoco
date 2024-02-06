@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GeriYoco',
-  tagline: 'Balance.',
+  tagline: 'Balance is everything.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -21,7 +21,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'geriyoco.github.io', // Usually your GitHub org/user name.
+  organizationName: 'geriyoco', // Usually your GitHub org/user name.
   projectName: 'GeriYoco', // Usually your repo name.
 
   onBrokenLinks: 'throw',
