@@ -1,0 +1,8 @@
+{
+  "label": "Mathematics Foundations",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "The basic mathematics knowledge required to understand modern statistics, machine learning, and physics."
+  }
+}
